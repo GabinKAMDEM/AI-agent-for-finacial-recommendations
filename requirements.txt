@@ -1,0 +1,6 @@
+pandas
+yfinance
+numpy
+python-dotenv
+langchain-mistralai
+
